@@ -18,5 +18,5 @@ let mySprite = sprites.create(img`
 `, SpriteKind.Player)
 
 for (let i = 0; i < 5; i++) {
-    music.stopAllSounds()
+    music.stopAllSounds();
 }
